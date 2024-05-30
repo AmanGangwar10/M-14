@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Window is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Window is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Window is maximized]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-24T08:04:45 IST" name="Suite" finished-at="2024-05-24T08:05:12 IST" duration-ms="27397">
+    <groups>
+    </groups>
+    <test started-at="2024-05-24T08:04:45 IST" name="Test" finished-at="2024-05-24T08:05:12 IST" duration-ms="27397">
+      <class name="beauty.LaunchDove_Test">
+        <test-method signature="nykaa()[pri:0, instance:beauty.LaunchDove_Test@7ed7259e]" started-at="2024-05-24T08:05:03 IST" name="nykaa" finished-at="2024-05-24T08:05:12 IST" duration-ms="9066" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Window is maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nykaa -->
+      </class> <!-- beauty.LaunchDove_Test -->
+      <class name="beauty.LaunchSuger_Test">
+        <test-method signature="nykaa()[pri:0, instance:beauty.LaunchSuger_Test@3d51f06e]" started-at="2024-05-24T08:04:52 IST" name="nykaa" finished-at="2024-05-24T08:05:03 IST" duration-ms="11353" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Window is maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nykaa -->
+      </class> <!-- beauty.LaunchSuger_Test -->
+      <class name="beauty.LaunchNykaa_Test">
+        <test-method signature="nykaa()[pri:0, instance:beauty.LaunchNykaa_Test@3d74bf60]" started-at="2024-05-24T08:04:45 IST" name="nykaa" finished-at="2024-05-24T08:04:52 IST" duration-ms="6921" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Window is maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nykaa -->
+      </class> <!-- beauty.LaunchNykaa_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
